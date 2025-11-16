@@ -44,5 +44,6 @@
 # elif day==7:
 #     print("sun")                    
 # elif day>8:
-#     print("invalid numbre of week")    
+#print("invalid numbre of week")    
+
 
