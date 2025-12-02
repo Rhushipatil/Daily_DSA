@@ -26,7 +26,7 @@ prt_name("rhushi", 3)
     
 #or
 
-# def print_1_to_n(n):
+## def print_1_to_n(n):
 #     if n==0:     # base condition
 #         return
 #     print_1_to_n(n-1) 
